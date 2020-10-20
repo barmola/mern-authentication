@@ -1,0 +1,9 @@
+[submodule "mern-authentication"]
+	path = mern-authentication
+	url = https://github.com/barmola/mern-authentication.git
+[submodule "mern-auth-back"]
+	path = mern-auth-back
+	url = https://github.com/barmola/mern-authentication.git
+[submodule "mern-auth-front"]
+	path = mern-auth-front
+	url = https://github.com/barmola/mern-authentication.git
